@@ -1,0 +1,13 @@
+
+{
+    "lifecycle": {
+        "type" : "platform",
+        "prefix": "SG",
+        "cherry-pick-matrix": {
+        "lit-1730": ["master"],
+        "lit-1720": ["lit-1730", "master"]
+        }
+    }
+}
+
+        
