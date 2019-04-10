@@ -1,8 +1,0 @@
-
-    {"reviewers":[],"rules":[
-        {
-          "id":"test_rule",
-          "trigger":{"paths":["test.txt"]},
-          "assignment":{"type":"roundrobin", "reviewers":"opsmail"}
-        }
-    ]}
