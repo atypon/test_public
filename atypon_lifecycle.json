@@ -3,7 +3,7 @@
     "type" : "platform",
     "prefix": "SG",
     "release-structure":{
-      "developBranch":"develop",
+      "developBranch":"develop"
     }
   }
 }
